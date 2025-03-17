@@ -36,6 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niamulankon&show_icons=true&locale=en" alt="niamulankon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niamulankon&" alt="niamulankon" /></p>
-<p> Scan The Qr Code To see my Portfolio or visit this link: https://mdniamulislamankon.my.canva.site/</p>
+<p> Scan The Qr Code To see my Portfolio or visit this link: https://mdniamulankon.great-site.net/</p>
 
-![My Image](portfolio_qrcode.png)
+![My Image](portfolio_qrcode_1.png)
