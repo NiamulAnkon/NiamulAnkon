@@ -128,7 +128,7 @@
 - 💡 Building **unique, large-scale projects** from scratch.  
 - 📚 Blending **coding + esports** to create innovative applications.  
 - 🚀 Constantly improving in **UI/UX, problem-solving, and system design**.
--  [**Portfolio**](\https://mdniamulankon.great-site.net/?i=1)
+-  Portfolio - https://md-niamul-ankon-potfolio.great-site.net/?i=1
 
 ---
 
