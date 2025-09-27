@@ -120,7 +120,8 @@
 ## 🎮 Competitive Gaming
 - PUBG Mobile Esports player
 - Playing in **ELxMPO ESPORTS** as a **IGL** in esports competitions.  
-- Gaming fuels my creativity in coding — building tools for players and teams.  
+- Gaming fuels my creativity in coding — building tools for players and teams.
+- Also Known as ATHECAL.  
 
 ---
 
