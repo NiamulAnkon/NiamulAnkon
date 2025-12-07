@@ -5,7 +5,7 @@
 
 # Hi, I'm ANKON 👋  
 
-💻 **Software Developer | Python Developer | PyQt & Qt Expert |Video Editor | Esports Competitor**  
+💻 **Software Developer | Python Developer | Desktop App Specialist | Esports Competitor**  
 
 ---
 
