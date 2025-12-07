@@ -3,7 +3,7 @@
   <img src="https://github.com/NiamulAnkon/Images/blob/main/banner.png" alt="ATHECAL Banner" />
 </p>
 
-# Hi, I'm ANKON 👋  
+# Hi, I'm NIAMUL ANKON 👋  
 
 💻 **Software Developer | Python Developer | Desktop App Specialist | Esports Competitor**  
 
