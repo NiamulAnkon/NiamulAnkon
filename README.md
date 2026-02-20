@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/YOUR-USERNAME/NebulaHeaven">
+      <a href="https://github.com/NiamulAnkon/NebulaHeaven">
         <img src="https://github.com/NiamulAnkon/Images/blob/main/nebulaheaven.png" alt="NebulaHeaven"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -50,20 +50,20 @@
       <br/>
       <b>OrgaSuite 🗂️</b><br/>
       <sub>Productivity suite for managing tasks, notes, and organization.</sub><br/>
-      🔗 <a href="https://github.com/YOUR-USERNAME/OrgaSuite">Repo</a>
+      🔗 <a href="https://github.com/NiamulAnkon/OrgaSuite">Repo</a>
       <br/>
       <sub>Tags: Python, PyQt5</sub>
     </td>
   .
     <td align="center" width="33%">
-      <a href="https://github.com/NiamulAnkon/STUDYSUITE">
-        <img src="https://github.com/NiamulAnkon/Images/blob/main/studysuite.png" alt="StudySuite"
+      <a href="https://github.com/NiamulAnkon/Projects/tree/main/ClientDesk">
+        <img src="https://github.com/NiamulAnkon/Images/blob/main/ClientDesk.png" alt="ClientDesk"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>StudySuite 📖</b><br/>
-      <sub>Desktop tool for efficient studying, note-taking, and exam prep.</sub><br/>
-      🔗 <a href="https://github.com/YOUR-USERNAME/StudySuite">Repo</a>
+      <b>ClientDesk 🖥️</b><br/>
+      <sub>Desktop tool for efficiently Managing Clinets and Creating Invoices.</sub><br/>
+      🔗 <a href="https://github.com/NiamulAnkon/Projects/tree/main/ClientDesk">Repo</a>
       <br/>
       <sub>Tags: Python, PyQt5</sub>
     </td>
@@ -77,7 +77,7 @@
       <br/>
       <b>TimeTrace ⏱️</b><br/>
       <sub>Time-tracking and analytics tool to boost productivity.</sub><br/>
-      🔗 <a href="https://github.com/YOUR-USERNAME/TimeTrace">Repo</a>
+      🔗 <a href="https://github.com/swampus-en/TimeTrace">Repo</a>
       <br/>
       <sub>Tags: Python, PyQt5</sub>
     </td>
@@ -91,7 +91,7 @@
       <br/>
       <b>SecureLock 🔒</b><br/>
       <sub>File & folder locker with password protection for desktop.</sub><br/>
-      🔗 <a href="https://github.com/YOUR-USERNAME/SecureLock">Repo</a>
+      🔗 <a href="https://github.com/NiamulAnkon/Projects">Repo</a>
       <br/>
       <sub>Tags: Python, PyQt5</sub>
     </td>
@@ -104,7 +104,7 @@
       <br/>
       <b>MentalHelp AI 🧠</b><br/>
       <sub>AI-powered mental health assistant for desktop.</sub><br/>
-      🔗 <a href="https://github.com/YOUR-USERNAME/MentalHelp-AI">Repo</a>
+      🔗 <a href="https://github.com/NiamulAnkon/Projects">Repo</a>
       <br/>
       <sub>Tags: Python, PyQt5, AI</sub>
     </td>
